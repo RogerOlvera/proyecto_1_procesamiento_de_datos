@@ -1,7 +1,19 @@
-# proyecto_1
+# Proyecto_1_procesamiento_de_datos
  
-## **Data Analyst. sprint 1, proyecto 1**
+## **Data Analyst: procesamiento de datos.**
 
-Práctica de Python básico correspondiente al sprint 1.
+## **Descripción del proyecto**
 
-Archivo dentro directorio: notebooks.
+Como parte del equipo de análisis, lo primero que debes hacer es evaluar la calidad de una muestra de datos recopilados y prepararla para analizarla posteriormente. 
+Para ello, debes aplicar una serie de transformaciones a los datos y generar un informe que detalle el trabajo realizado.
+
+## **Objetivos del proyecto**
+
+1. **Revisar la calidad de los datos.**
+2. **Transformar los datos.**
+3. **Generar un informe.**
+
+## **Notas adicionales**
+
+- Asegúrate de tener instalado Python 3.x y las librerías necesarias.
+- Archivo dentro directorio: notebooks.
