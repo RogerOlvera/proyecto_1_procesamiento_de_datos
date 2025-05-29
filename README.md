@@ -4,7 +4,8 @@
 
 ## **Descripción del proyecto**
 
-Como parte del equipo de análisis, lo primero que debes hacer es evaluar la calidad de una muestra de datos recopilados y prepararla para analizarla posteriormente. 
+Como parte del equipo de análisis, lo primero que debes hacer es evaluar la calidad de una muestra de datos recopilados y prepararla para analizarla posteriormente.
+
 Para ello, debes aplicar una serie de transformaciones a los datos y generar un informe que detalle el trabajo realizado.
 
 ## **Objetivos del proyecto**
@@ -15,5 +16,7 @@ Para ello, debes aplicar una serie de transformaciones a los datos y generar un 
 
 ## **Notas adicionales**
 
-- Asegúrate de tener instalado Python 3.x y las librerías necesarias.
-- Archivo dentro directorio: notebooks.
+:diamond_shape_with_a_dot_inside: Asegúrate de tener instalado Python 3.x y las librerías necesarias.
+:diamond_shape_with_a_dot_inside: Link Jupyter Notebook: https://github.com/RogerOlvera/proyecto_1_procesamiento_de_datos/blob/main/notebooks/proyecto_sprint_1.ipynb
+
+
