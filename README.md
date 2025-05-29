@@ -17,6 +17,7 @@ Para ello, debes aplicar una serie de transformaciones a los datos y generar un 
 ## **Notas adicionales**
 
 :diamond_shape_with_a_dot_inside: Asegúrate de tener instalado Python 3.x y las librerías necesarias.
+
 :diamond_shape_with_a_dot_inside: Link Jupyter Notebook: https://github.com/RogerOlvera/proyecto_1_procesamiento_de_datos/blob/main/notebooks/proyecto_sprint_1.ipynb
 
 
